@@ -13,7 +13,7 @@ const {
     WAMessageProto,
 	prepareMessageFromContent,
     relayWAMessage,
-} = require("@adiwajshing/baileys-md");
+} = require("@adiwajshing/baileys");
 const fs = require('fs');
 const moment = require('moment-timezone');
 const afkJs = require('./lib/afk')
